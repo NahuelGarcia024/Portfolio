@@ -1,12 +1,4 @@
-/* jquery.nicescroll
--- version 3.4.0
--- copyright 2011-12-13 InuYaksa*2013
--- licensed under the MIT
---
--- http://areaaperta.com/nicescroll
--- https://github.com/inuyaksa/jquery.nicescroll
---
-*/
+
 
 (function(jQuery){
 
@@ -28,7 +20,7 @@
   }
   var scriptpath = getScriptPath();
 
-// derived by Paul Irish https://gist.github.com/paulirish/1579671 - thanks for your code!
+
 
   if (!Array.prototype.forEach) {  // JS 1.6 polyfill
     Array.prototype.forEach = function(fn, scope) {
